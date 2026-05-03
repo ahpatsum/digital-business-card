@@ -1,7 +1,7 @@
 {
-  "name": "Digital Business Card",
-  "short_name": "BizCard",
-  "description": "Mobile-first digital business card with QR code sharing",
+  "name": "Carte de Visite Numérique",
+  "short_name": "CarteVisite",
+  "description": "Carte de visite mobile avec partage par code QR",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

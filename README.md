@@ -1,28 +1,28 @@
-# Digital Business Card
+# Carte de Visite Numérique
 
-A mobile-first Progressive Web App (PWA) that generates QR codes containing vCard contact information for easy sharing during networking events.
+Une application web progressive (PWA) mobile-first qui génère des codes QR contenant des informations de contact au format vCard pour un partage facile lors d'événements de networking.
 
-## Features
+## Fonctionnalités
 
-- **Mobile-First Design**: Optimized for mobile devices
-- **QR Code Generation**: Creates scannable QR codes with contact information
-- **vCard Format**: Generates standard vCard data that can be imported into contact apps
-- **PWA Support**: Can be installed as a standalone app on mobile devices
-- **Local Storage**: Saves your contact information for quick reuse
-- **Offline Capable**: Basic caching for offline functionality
+- **Design Mobile-First** : Optimisé pour les appareils mobiles
+- **Génération de Code QR** : Crée des codes QR scannables avec les informations de contact
+- **Format vCard** : Génère des données vCard standard qui peuvent être importées dans les applications de contacts
+- **Support PWA** : Peut être installé comme application autonome sur les appareils mobiles
+- **Stockage Local** : Sauvegarde vos informations de contact pour une réutilisation rapide
+- **Capable Hors Ligne** : Cache de base pour une fonctionnalité hors ligne
 
-## How to Use
+## Comment Utiliser
 
-1. Open the app on your mobile device
-2. Fill in your contact information (name and email are required)
-3. Click "Generate QR Code"
-4. Show the QR code to others - they can scan it to instantly add your contact info to their phone
+1. Ouvrez l'application sur votre appareil mobile
+2. Remplissez vos informations de contact (nom et email sont requis)
+3. Cliquez sur "Générer le code QR"
+4. Montrez le code QR aux autres - ils peuvent le scanner pour ajouter instantanément vos informations de contact à leur téléphone
 
-## Development
+## Développement
 
-### Prerequisites
+### Prérequis
 
-- Node.js (v16 or higher)
+- Node.js (v16 ou supérieur)
 - npm
 
 ### Installation
@@ -31,19 +31,19 @@ A mobile-first Progressive Web App (PWA) that generates QR codes containing vCar
 npm install
 ```
 
-### Development Server
+### Serveur de Développement
 
 ```bash
 npm run dev
 ```
 
-### Build for Production
+### Build pour la Production
 
 ```bash
 npm run build
 ```
 
-### Preview Production Build
+### Aperçu du Build de Production
 
 ```bash
 npm run preview
